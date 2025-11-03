@@ -1,10 +1,10 @@
-# 🌐 EduLink — The Ultimate Social Learning Platform
+# EduLink — The Ultimate Social Learning Platform
 
 EduLink is a modern **social media platform for learners**. It blends traditional social networking with educational roadmaps, allowing students to connect, share, and grow together while learning new skills such as **Machine Learning**, **Deep Learning**, and more.
 
 ---
 
-## 🚀 Features
+## Features
 
 ### Authentication
 - **Login and Signup** using **Google Firebase Authentication**
