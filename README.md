@@ -58,9 +58,9 @@ Visit the live platform:
 
 ##  Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript, React (or relevant framework)
-- **Backend:** Node.js / Express (or your chosen backend stack)
-- **Database:** Firebase / Azure Database
+- **Frontend:**  React 
+- **Backend:** Node.js / Express 
+- **Database:** Firebase & PostgresSQL
 - **Cloud Hosting:** Microsoft Azure, DigitalOcean
 - **APIs & Integrations:** Gemini API, WebRTC, Firebase Authentication
 
@@ -73,17 +73,4 @@ EduLink aims to create a **collaborative learning ecosystem** where:
 - Developers and learners can share their progress
 - Real-time interaction fosters genuine connections
 
----
 
-##  Feedback & Support
-
-If you’d like to support our work:  
-☕ [Buy Me a Coffee](https://www.buymeacoffee.com)
-
-For suggestions or issues, open an issue on GitHub or contact our team through the platform.
-
----
-
-## 🧑‍💻 Team
-
-Developed with ❤️ by the **EduLink Team**  
